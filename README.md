@@ -1,62 +1,81 @@
 # Space-Mission-Analysis.
 
-n end-to-end Exploratory Data Analysis (EDA) project uncovering trends, performance, and insights from global space missions.
+# 🚀 Space Mission Analysis – Exploratory Data Analysis (EDA)
 
-📌 Overview
-With the rising interest in space exploration, this project dives deep into a dataset of global space launches to answer key questions:
+## 📌 Overview
+With the growing global interest in space exploration, this project performs an **end-to-end Exploratory Data Analysis (EDA)** on worldwide space mission data.  
+The goal is to uncover meaningful trends, performance patterns, and insights related to **launch success, cost efficiency, and the evolving role of private players** in the space industry.
 
-🌍 Who’s leading the space race — countries or private players?
-🔁 Are reused rockets like those by SpaceX actually reliable?
-💰 Do higher mission costs lead to more success?
-📈 How has launch frequency and success evolved over the years?
-🧹 Data & Process
-Cleaned raw space mission data (missing values, formatting, type conversions)
-Conducted EDA using Python (pandas, matplotlib, seaborn)
-Visualized trends in launch outcomes, cost efficiency, mission types, and more
-🔍 Key Insights
-🇺🇸 USA and 🇷🇺 Russia dominate, but private firms like SpaceX are rapidly gaining ground
-🔁 Reused rockets show high success rates — innovation is paying off
-💸 Rocket Lab offers the lowest cost per successful launch (~$7.5M)
-🚀 Launches surged post-2015, driven by commercial advancements
-🏛️ Government missions still lead in volume, but private launches have higher success rates
-👥 Team
-Saksham Sahu
-Navya Purohit
-Suryansh Singh
-Nibha Kumari
-Mohd Kayes Ansari
-🧰 Tools Used
-Python (pandas, numpy)
-Visualization: matplotlib, seaborn
-Jupyter Notebook
-🎯 Conclusion
-Space exploration is evolving — faster, cheaper, and more innovative.
-This analysis provides a clear view of how trends, cost, and success are reshaping the future of global space missions.
+This analysis answers key questions such as:
+- 🌍 Who is leading the space race — governments or private companies?
+- 🔁 Are reused rockets (like those by SpaceX) reliable?
+- 💰 Does higher mission cost guarantee higher success?
+- 📈 How have launch frequency and success rates evolved over time?
 
-👉 SPACE MISSION ANALYSIS Presentation
+---
 
-About
-Data-Driven Insights into Space Launch Trends, Costs, and Success Rates
+## 🧹 Data Cleaning & Processing
+The raw dataset underwent extensive preprocessing:
+- Handling missing and null values
+- Standardizing formats and correcting data types
+- Filtering and transforming data for analysis readiness
 
-Resources
- Readme
- Activity
-Stars
- 0 stars
-Watchers
- 0 watching
-Forks
- 1 fork
-Report repository
-Releases
-No releases published
-Packages
-No packages published
-Contributors
-2
-@Saksham0121
-Saksham0121 Saksham Sahu
-@kayesansari21
-kayesansari21 Mohd Kayes Ansari
-Languages
-Jupyter Notebook
+---
+
+## 📊 Exploratory Data Analysis
+EDA was performed using Python to analyze:
+- Launch trends over time
+- Mission success vs failure rates
+- Cost efficiency of different organizations
+- Comparison between government and private launches
+- Impact of reusable rockets on mission success
+
+Visualizations were created to clearly represent patterns and insights.
+
+---
+
+## 🔍 Key Insights
+- 🇺🇸 **USA** and 🇷🇺 **Russia** dominate total launches, but **private companies** are rapidly closing the gap
+- 🔁 **Reused rockets** demonstrate high success rates, proving reusability is reliable
+- 💸 **Rocket Lab** offers the lowest cost per successful launch (~$7.5M)
+- 🚀 Launch frequency increased significantly after **2015**, driven by commercial space companies
+- 🏛️ Government missions lead in volume, but **private missions show higher success rates**
+
+---
+
+## 🧰 Tools & Technologies
+- **Python**
+  - pandas
+  - numpy
+- **Data Visualization**
+  - matplotlib
+  - seaborn
+- **Environment**
+  - Jupyter Notebook
+
+---
+
+## 👥 Team Members
+- **Saksham Sahu**
+- **Navya Purohit**
+- **Suryansh Singh**
+- **Nibha Kumari**
+- **Mohd Kayes Ansari**
+
+---
+
+## 🎯 Conclusion
+Space exploration is undergoing a major transformation — becoming **faster, cheaper, and more innovative**.  
+Private companies are reshaping the industry with cost-efficient launches and reusable technology, while governments continue to play a crucial role.
+
+This project provides a **data-driven perspective** on how trends, costs, and success rates are shaping the future of global space missions.
+
+---
+
+## 📁 Project Type
+- Exploratory Data Analysis (EDA)
+- Data-Driven Research Project
+
+---
+
+## ⭐ If you find this project insightful, consider starring the repository!
