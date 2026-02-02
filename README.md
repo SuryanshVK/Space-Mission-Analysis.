@@ -4,7 +4,7 @@
 
 ## 📌 Overview
 With the growing global interest in space exploration, this project performs an **end-to-end Exploratory Data Analysis (EDA)** on worldwide space mission data.  
-The goal is to uncover meaningful trends, performance patterns, and insights related to **launch success, cost efficiency, and the evolving role of private players** in the space industry.
+The goal is to uncover meaningful trends, performance patterns, and insights related to **launch success   , cost efficiency, and the evolving role of private players** in the space industry.
 
 This analysis answers key questions such as:
 - 🌍 Who is leading the space race — governments or private companies?
