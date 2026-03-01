@@ -74,7 +74,7 @@ This project provides a **data-driven perspective** on how trends, costs, and su
 
 ## 📁 Project Type
 - Exploratory Data Analysis (EDA)
-- Data-Driven Research Project
+- Data-Driven Project
 
 ---
 
