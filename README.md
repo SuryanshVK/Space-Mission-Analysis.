@@ -1,4 +1,4 @@
-# Space-Mission-Analysis.
+# Space Mission Analysis
 
 # 🚀 Space Mission Analysis – Exploratory Data Analysis (EDA)
 
