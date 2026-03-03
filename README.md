@@ -34,7 +34,7 @@ Visualizations were created to clearly represent patterns and insights.
 
 ---
 
-## 🔍 Key Insights
+## 🔍
 - 🇺🇸 **USA** and 🇷🇺 **Russia** dominate total launches, but **private companies** are rapidly closing the gap
 - 🔁 **Reused rockets** demonstrate high success rates, proving reusability is reliable
 - 💸 **Rocket Lab** offers the lowest cost per successful launch (~$7.5M)
